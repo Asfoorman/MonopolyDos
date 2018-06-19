@@ -9,7 +9,23 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet weak var numLabel: UILabel!
+    
+    @IBOutlet weak var lftIMG: UIImageView!
+    @IBOutlet weak var rghtIMG: UIImageView!
+    
+    @IBOutlet weak var rollDieBttn: UIButton!
+    
+    
+    @IBAction func buttonPressed(_ sender: Any) {
+        
+        
+        let rndmNUMone 
+        
+        
+        
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

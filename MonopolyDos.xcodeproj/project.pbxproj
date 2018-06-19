@@ -14,6 +14,12 @@
 		934A40E020D97AFD00A55BC3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 934A40DE20D97AFD00A55BC3 /* LaunchScreen.storyboard */; };
 		934A40EB20D97AFE00A55BC3 /* MonopolyDosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934A40EA20D97AFE00A55BC3 /* MonopolyDosTests.swift */; };
 		934A40F620D97AFE00A55BC3 /* MonopolyDosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 934A40F520D97AFE00A55BC3 /* MonopolyDosUITests.swift */; };
+		934A410920D97DEC00A55BC3 /* dice2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 934A410320D97DEA00A55BC3 /* dice2.jpg */; };
+		934A410A20D97DEC00A55BC3 /* dice5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 934A410420D97DEA00A55BC3 /* dice5.jpg */; };
+		934A410B20D97DEC00A55BC3 /* dice1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 934A410520D97DEB00A55BC3 /* dice1.jpg */; };
+		934A410C20D97DEC00A55BC3 /* dice6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 934A410620D97DEB00A55BC3 /* dice6.jpg */; };
+		934A410D20D97DEC00A55BC3 /* dice3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 934A410720D97DEB00A55BC3 /* dice3.jpg */; };
+		934A410E20D97DEC00A55BC3 /* dice4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 934A410820D97DEB00A55BC3 /* dice4.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +53,12 @@
 		934A40F120D97AFE00A55BC3 /* MonopolyDosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MonopolyDosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		934A40F520D97AFE00A55BC3 /* MonopolyDosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonopolyDosUITests.swift; sourceTree = "<group>"; };
 		934A40F720D97AFE00A55BC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		934A410320D97DEA00A55BC3 /* dice2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice2.jpg; sourceTree = "<group>"; };
+		934A410420D97DEA00A55BC3 /* dice5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice5.jpg; sourceTree = "<group>"; };
+		934A410520D97DEB00A55BC3 /* dice1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice1.jpg; sourceTree = "<group>"; };
+		934A410620D97DEB00A55BC3 /* dice6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice6.jpg; sourceTree = "<group>"; };
+		934A410720D97DEB00A55BC3 /* dice3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice3.jpg; sourceTree = "<group>"; };
+		934A410820D97DEB00A55BC3 /* dice4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dice4.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +109,12 @@
 		934A40D420D97AFC00A55BC3 /* MonopolyDos */ = {
 			isa = PBXGroup;
 			children = (
+				934A410520D97DEB00A55BC3 /* dice1.jpg */,
+				934A410320D97DEA00A55BC3 /* dice2.jpg */,
+				934A410720D97DEB00A55BC3 /* dice3.jpg */,
+				934A410820D97DEB00A55BC3 /* dice4.jpg */,
+				934A410420D97DEA00A55BC3 /* dice5.jpg */,
+				934A410620D97DEB00A55BC3 /* dice6.jpg */,
 				934A40D520D97AFC00A55BC3 /* AppDelegate.swift */,
 				934A40D720D97AFC00A55BC3 /* ViewController.swift */,
 				934A40D920D97AFC00A55BC3 /* Main.storyboard */,
@@ -229,9 +247,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				934A410D20D97DEC00A55BC3 /* dice3.jpg in Resources */,
+				934A410C20D97DEC00A55BC3 /* dice6.jpg in Resources */,
 				934A40E020D97AFD00A55BC3 /* LaunchScreen.storyboard in Resources */,
+				934A410A20D97DEC00A55BC3 /* dice5.jpg in Resources */,
 				934A40DD20D97AFD00A55BC3 /* Assets.xcassets in Resources */,
 				934A40DB20D97AFC00A55BC3 /* Main.storyboard in Resources */,
+				934A410B20D97DEC00A55BC3 /* dice1.jpg in Resources */,
+				934A410E20D97DEC00A55BC3 /* dice4.jpg in Resources */,
+				934A410920D97DEC00A55BC3 /* dice2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
